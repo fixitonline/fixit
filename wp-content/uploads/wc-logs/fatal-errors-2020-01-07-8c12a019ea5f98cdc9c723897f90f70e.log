@@ -1,0 +1,48 @@
+2020-01-07T06:59:11+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php:48
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/index.php(597): include()
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): Create_ssl_ipn_page_url->parse_request(Object(WP))
+#2 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(387): do_action_ref_array('parse_request', Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(729): WP->parse_request('')
+#6 /vh/g/fixitcombd184747/www/wp-includes/functions.php(1255): WP->main('')
+#7 /vh/g/fixitcombd184747/www/wp-blog-header.php(16): wp()
+#8 /vh/g/fixitcombd184747/www/index.php(17): require('/vh in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php on line 48
+
+2020-01-07T07:11:31+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php:48
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/index.php(597): include()
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): Create_ssl_ipn_page_url->parse_request(Object(WP))
+#2 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(387): do_action_ref_array('parse_request', Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(729): WP->parse_request('')
+#6 /vh/g/fixitcombd184747/www/wp-includes/functions.php(1255): WP->main('')
+#7 /vh/g/fixitcombd184747/www/wp-blog-header.php(16): wp()
+#8 /vh/g/fixitcombd184747/www/index.php(17): require('/vh in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php on line 48
+
+2020-01-07T11:31:29+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php:48
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/index.php(597): include()
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): Create_ssl_ipn_page_url->parse_request(Object(WP))
+#2 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(387): do_action_ref_array('parse_request', Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(729): WP->parse_request('')
+#6 /vh/g/fixitcombd184747/www/wp-includes/functions.php(1255): WP->main('')
+#7 /vh/g/fixitcombd184747/www/wp-blog-header.php(16): wp()
+#8 /vh/g/fixitcombd184747/www/index.php(17): require('/vh in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php on line 48
+
+2020-01-07T11:46:23+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php:48
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/index.php(597): include()
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): Create_ssl_ipn_page_url->parse_request(Object(WP))
+#2 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(387): do_action_ref_array('parse_request', Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(729): WP->parse_request('')
+#6 /vh/g/fixitcombd184747/www/wp-includes/functions.php(1255): WP->main('')
+#7 /vh/g/fixitcombd184747/www/wp-blog-header.php(16): wp()
+#8 /vh/g/fixitcombd184747/www/index.php(17): require('/vh in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php on line 48
+

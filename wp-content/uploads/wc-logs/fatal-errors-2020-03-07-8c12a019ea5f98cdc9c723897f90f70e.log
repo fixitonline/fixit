@@ -1,0 +1,10 @@
+2020-03-07T09:19:57+00:00 CRITICAL Uncaught Error: Call to a member function get_parent_id() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/woo-variation-swatches/includes/hooks.php:81
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(290): Woo_Variation_Swatches->{closure}(16320)
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-variation-data-store-cpt.php(268): do_action('woocommerce_upd...', 16320, Object(WC_Product_Variation))
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-data-store.php(179): WC_Product_Variation_Data_Store_CPT->update(Object(WC_Product_Variation))
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php(1376): WC_Data_Store->update(Object(WC_Product_Variation))
+#6 /vh/g/fixitco in /vh/g/fixitcombd184747/www/wp-content/plugins/woo-variation-swatches/includes/hooks.php on line 81
+

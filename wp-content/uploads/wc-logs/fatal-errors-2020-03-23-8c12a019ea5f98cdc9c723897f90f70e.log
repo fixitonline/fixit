@@ -1,0 +1,24 @@
+2020-03-23T10:50:01+00:00 CRITICAL Uncaught Error: Call to a member function get_date_created() on null in /vh/g/fixitcombd184747/www/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php:432
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): gtm4wp_woocommerce_datalayer_filter_items(Array)
+#1 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/duracelltomi-google-tag-manager/public/frontend.php(818): apply_filters('gtm4wp_compile_...', Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(286): gtm4wp_wp_header_begin()
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /vh/g/fixitcombd184747/www/wp-includes/general-template.php(2879): do_action('wp_head')
+#7 /vh/g/fixitcombd184747/www/wp-content/themes/urna/header.php(17): wp_head()
+#8 /vh/g/fixitcombd1 in /vh/g/fixitcombd184747/www/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php on line 432
+
+2020-03-23T10:50:42+00:00 CRITICAL Uncaught Error: Call to a member function get_date_created() on null in /vh/g/fixitcombd184747/www/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php:432
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): gtm4wp_woocommerce_datalayer_filter_items(Array)
+#1 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(206): WP_Hook->apply_filters(Array, Array)
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/duracelltomi-google-tag-manager/public/frontend.php(818): apply_filters('gtm4wp_compile_...', Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(286): gtm4wp_wp_header_begin()
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#6 /vh/g/fixitcombd184747/www/wp-includes/general-template.php(2879): do_action('wp_head')
+#7 /vh/g/fixitcombd184747/www/wp-content/themes/urna/header.php(17): wp_head()
+#8 /vh/g/fixitcombd1 in /vh/g/fixitcombd184747/www/wp-content/plugins/duracelltomi-google-tag-manager/integration/woocommerce.php on line 432
+

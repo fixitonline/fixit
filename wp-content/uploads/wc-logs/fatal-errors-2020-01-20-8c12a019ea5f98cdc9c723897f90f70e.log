@@ -1,0 +1,58 @@
+2020-01-20T13:21:27+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php:48
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/index.php(597): include()
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): Create_ssl_ipn_page_url->parse_request(Object(WP))
+#2 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(387): do_action_ref_array('parse_request', Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(729): WP->parse_request('')
+#6 /vh/g/fixitcombd184747/www/wp-includes/functions.php(1255): WP->main('')
+#7 /vh/g/fixitcombd184747/www/wp-blog-header.php(16): wp()
+#8 /vh/g/fixitcombd184747/www/index.php(17): require('/vh in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php on line 48
+
+2020-01-20T13:30:31+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php:48
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/index.php(597): include()
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): Create_ssl_ipn_page_url->parse_request(Object(WP))
+#2 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(387): do_action_ref_array('parse_request', Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(729): WP->parse_request('')
+#6 /vh/g/fixitcombd184747/www/wp-includes/functions.php(1255): WP->main('')
+#7 /vh/g/fixitcombd184747/www/wp-blog-header.php(16): wp()
+#8 /vh/g/fixitcombd184747/www/index.php(17): require('/vh in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php on line 48
+
+2020-01-20T13:35:24+00:00 CRITICAL Uncaught Error: Call to a member function get_total() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php:48
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/index.php(597): include()
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): Create_ssl_ipn_page_url->parse_request(Object(WP))
+#2 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#3 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#4 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(387): do_action_ref_array('parse_request', Array)
+#5 /vh/g/fixitcombd184747/www/wp-includes/class-wp.php(729): WP->parse_request('')
+#6 /vh/g/fixitcombd184747/www/wp-includes/functions.php(1255): WP->main('')
+#7 /vh/g/fixitcombd184747/www/wp-blog-header.php(16): wp()
+#8 /vh/g/fixitcombd184747/www/index.php(17): require('/vh in /vh/g/fixitcombd184747/www/wp-content/plugins/New-WooCommerce-PaymentGateway-V5.2.1-EasyCheckout-master/sslcommerz_ipn.php on line 48
+
+2020-01-20T20:00:30+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/cart/mini-cart.php:29
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2113): wc_get_template('cart/mini-cart....', Array)
+#2 /vh/g/fixitcombd184747/www/wp-content/themes/urna/page-templates/parts/offcanvas-cart-right.php(11): woocommerce_mini_cart()
+#3 /vh/g/fixitcombd184747/www/wp-includes/template.php(724): require('/vh/g/fixitcomb...')
+#4 /vh/g/fixitcombd184747/www/wp-includes/template.php(671): load_template('/vh/g/fixitcomb...', false)
+#5 /vh/g/fixitcombd184747/www/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#6 /vh/g/fixitcombd184747/www/wp-content/themes/urna/inc/functions-helper.php(386): get_template_part('page-templates/...', 'right')
+#7 /vh/g/fixitcombd184747/www/wp-content/theme in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/cart/mini-cart.php on line 29
+
+2020-01-20T20:00:35+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/cart/mini-cart.php:29
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2113): wc_get_template('cart/mini-cart....', Array)
+#2 /vh/g/fixitcombd184747/www/wp-content/themes/urna/page-templates/parts/offcanvas-cart-right.php(11): woocommerce_mini_cart()
+#3 /vh/g/fixitcombd184747/www/wp-includes/template.php(724): require('/vh/g/fixitcomb...')
+#4 /vh/g/fixitcombd184747/www/wp-includes/template.php(671): load_template('/vh/g/fixitcomb...', false)
+#5 /vh/g/fixitcombd184747/www/wp-includes/general-template.php(168): locate_template(Array, true, false)
+#6 /vh/g/fixitcombd184747/www/wp-content/themes/urna/inc/functions-helper.php(386): get_template_part('page-templates/...', 'right')
+#7 /vh/g/fixitcombd184747/www/wp-content/theme in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/cart/mini-cart.php on line 29
+

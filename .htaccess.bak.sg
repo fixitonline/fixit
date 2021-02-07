@@ -1,0 +1,59 @@
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+# END NON_LSCACHE
+# BEGIN WordPress
+# The directives (lines) between `BEGIN WordPress` and `END WordPress` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN WP-Optimize Browser Cache
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresByType text/css "access 28 days"
+	ExpiresByType text/html "access 28 days"
+	ExpiresByType image/gif "access 28 days"
+	ExpiresByType image/png "access 28 days"
+	ExpiresByType image/jpg "access 28 days"
+	ExpiresByType image/jpeg "access 28 days"
+	ExpiresByType image/webp "access 28 days"
+	ExpiresByType image/x-icon "access 28 days"
+	ExpiresByType application/pdf "access 28 days"
+	ExpiresByType application/javascript "access 28 days"
+	ExpiresByType text/x-javascript "access 28 days"
+	ExpiresByType application/x-shockwave-flash "access 28 days"
+	ExpiresDefault "access 28 days"
+</IfModule>
+
+<IfModule mod_headers.c>
+	<filesMatch "\.(ico|jpe?g|png|gif|webp|swf)$">
+		Header set Cache-Control "public"
+	</filesMatch>
+	<filesMatch "\.(css)$">
+		Header set Cache-Control "public"
+	</filesMatch>
+	<filesMatch "\.(js)$">
+		Header set Cache-Control "private"
+	</filesMatch>
+	<filesMatch "\.(x?html?|php)$">
+		Header set Cache-Control "private, must-revalidate"
+	</filesMatch>
+</IfModule>
+
+<filesMatch ".(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+
+Header set Cache-Control "max-age=604800, public"
+
+</filesMatch>
+#Disable ETag
+FileETag None
+# END WP-Optimize Browser Cache

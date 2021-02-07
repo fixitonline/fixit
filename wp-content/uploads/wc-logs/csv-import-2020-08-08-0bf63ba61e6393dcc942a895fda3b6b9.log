@@ -1,0 +1,956 @@
+2020-08-08T05:44:00+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:44:00+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:44:00+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:44:00+00:00 DEBUG ---
+2020-08-08T05:44:00+00:00 DEBUG Processing products.
+2020-08-08T05:44:00+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:44:00+00:00 DEBUG > Inserting 18mm Snap-Off Knife Workpro Brand
+2020-08-08T05:44:00+00:00 DEBUG > Inserted - post ID is 21761.
+2020-08-08T05:44:00+00:00 DEBUG > > Importing image "download-2-2.jpg"
+2020-08-08T05:44:06+00:00 DEBUG > > Error importing image "download-2-2.jpg"
+2020-08-08T05:44:06+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:06+00:00 DEBUG > > Images set
+2020-08-08T05:44:06+00:00 DEBUG > Finished importing post ID 21761.
+2020-08-08T05:44:06+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:44:06+00:00 DEBUG > Inserting 10pcs 9mm Snap off knife blades Workpro Brand
+2020-08-08T05:44:06+00:00 DEBUG > Inserted - post ID is 21762.
+2020-08-08T05:44:06+00:00 DEBUG > > Importing image "413675af912d9de58d395155af912d9de5c8-1-2.jpg"
+2020-08-08T05:44:09+00:00 DEBUG > > Error importing image "413675af912d9de58d395155af912d9de5c8-1-2.jpg"
+2020-08-08T05:44:09+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:09+00:00 DEBUG > > Images set
+2020-08-08T05:44:09+00:00 DEBUG > Finished importing post ID 21762.
+2020-08-08T05:44:09+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:44:09+00:00 DEBUG > Inserting Aluminum Retractable Utility Knife Workpro Brand
+2020-08-08T05:44:09+00:00 DEBUG > Inserted - post ID is 21763.
+2020-08-08T05:44:09+00:00 DEBUG > > Importing image "W013006-ALUMINIUM-RETRACTABLE-UTILITY-KNIFE1-2.jpg"
+2020-08-08T05:44:13+00:00 DEBUG > > Error importing image "W013006-ALUMINIUM-RETRACTABLE-UTILITY-KNIFE1-2.jpg"
+2020-08-08T05:44:13+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:13+00:00 DEBUG > > Images set
+2020-08-08T05:44:13+00:00 DEBUG > Finished importing post ID 21763.
+2020-08-08T05:44:13+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:44:13+00:00 DEBUG > Inserting Quick Chnage Utility Knife Workpro Brand
+2020-08-08T05:44:13+00:00 DEBUG > Inserted - post ID is 21764.
+2020-08-08T05:44:13+00:00 DEBUG > > Importing image "71SWNm67nnL._AC_SY450_-600x380-1-2.jpg"
+2020-08-08T05:44:17+00:00 DEBUG > > Error importing image "71SWNm67nnL._AC_SY450_-600x380-1-2.jpg"
+2020-08-08T05:44:17+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:17+00:00 DEBUG > > Images set
+2020-08-08T05:44:17+00:00 DEBUG > Finished importing post ID 21764.
+2020-08-08T05:44:17+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:44:17+00:00 DEBUG > Inserting 100-Pack Utility Knife Blades Dispenser Workpro Brand
+2020-08-08T05:44:17+00:00 DEBUG > Inserted - post ID is 21765.
+2020-08-08T05:44:17+00:00 DEBUG > > Importing image "61WdwcK6HpL._AC_SL1100_-1-2.jpg"
+2020-08-08T05:44:20+00:00 DEBUG > > Error importing image "61WdwcK6HpL._AC_SL1100_-1-2.jpg"
+2020-08-08T05:44:20+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:20+00:00 DEBUG > > Images set
+2020-08-08T05:44:20+00:00 DEBUG > Finished importing post ID 21765.
+2020-08-08T05:44:20+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:44:20+00:00 DEBUG > Inserting 12 Inch Tin Snip Workpro Brand
+2020-08-08T05:44:20+00:00 DEBUG > Inserted - post ID is 21766.
+2020-08-08T05:44:20+00:00 DEBUG > > Importing image "41PyXm8XTL-2.jpg"
+2020-08-08T05:44:24+00:00 DEBUG > > Error importing image "41PyXm8XTL-2.jpg"
+2020-08-08T05:44:24+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:24+00:00 DEBUG > > Images set
+2020-08-08T05:44:24+00:00 DEBUG > Finished importing post ID 21766.
+2020-08-08T05:44:24+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:44:24+00:00 DEBUG > Inserting 300mm 12 Inch Bolt Cutter Workpro Brand
+2020-08-08T05:44:24+00:00 DEBUG > Inserted - post ID is 21767.
+2020-08-08T05:44:24+00:00 DEBUG > > Importing image "667934_1-1-2.jpg"
+2020-08-08T05:44:28+00:00 DEBUG > > Error importing image "667934_1-1-2.jpg"
+2020-08-08T05:44:28+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:28+00:00 DEBUG > > Images set
+2020-08-08T05:44:28+00:00 DEBUG > Finished importing post ID 21767.
+2020-08-08T05:44:28+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:44:28+00:00 DEBUG > Inserting 350mm 14 Inch Bolt Cutter Workpro Brand
+2020-08-08T05:44:28+00:00 DEBUG > Inserted - post ID is 21768.
+2020-08-08T05:44:28+00:00 DEBUG > > Importing image "kim-cong-luc-workpro-w017004-600x600-2-2.jpg"
+2020-08-08T05:44:31+00:00 DEBUG > > Error importing image "kim-cong-luc-workpro-w017004-600x600-2-2.jpg"
+2020-08-08T05:44:31+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:31+00:00 DEBUG > > Images set
+2020-08-08T05:44:31+00:00 DEBUG > Finished importing post ID 21768.
+2020-08-08T05:44:31+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:44:31+00:00 DEBUG > Inserting 460mm 18 Inch Bolt Cutter Workpro Brand
+2020-08-08T05:44:32+00:00 DEBUG > Inserted - post ID is 21769.
+2020-08-08T05:44:32+00:00 DEBUG > > Importing image "d029aa244e2b129a46aeb22cf3ec752c-1-2.jpg"
+2020-08-08T05:44:35+00:00 DEBUG > > Error importing image "d029aa244e2b129a46aeb22cf3ec752c-1-2.jpg"
+2020-08-08T05:44:35+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:35+00:00 DEBUG > > Images set
+2020-08-08T05:44:35+00:00 DEBUG > Finished importing post ID 21769.
+2020-08-08T05:44:35+00:00 DEBUG Finished processing products.
+2020-08-08T05:44:45+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:44:45+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:44:45+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:44:45+00:00 DEBUG ---
+2020-08-08T05:44:45+00:00 DEBUG Processing products.
+2020-08-08T05:44:45+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:44:45+00:00 DEBUG > Inserting 600mm 24 Inch Bolt Cutter Workpro Brand
+2020-08-08T05:44:45+00:00 DEBUG > Inserted - post ID is 21770.
+2020-08-08T05:44:45+00:00 DEBUG > > Importing image "5277f1b0-6b5f-4e90-8b6a-38139e43b53d-2.jpg"
+2020-08-08T05:44:48+00:00 DEBUG > > Error importing image "5277f1b0-6b5f-4e90-8b6a-38139e43b53d-2.jpg"
+2020-08-08T05:44:48+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:48+00:00 DEBUG > > Images set
+2020-08-08T05:44:48+00:00 DEBUG > Finished importing post ID 21770.
+2020-08-08T05:44:48+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:44:48+00:00 DEBUG > Inserting 760mm 30 Inch Bolt Cutter Workpro Brand
+2020-08-08T05:44:48+00:00 DEBUG > Inserted - post ID is 21771.
+2020-08-08T05:44:48+00:00 DEBUG > > Importing image "716324_1-2.jpg"
+2020-08-08T05:44:52+00:00 DEBUG > > Error importing image "716324_1-2.jpg"
+2020-08-08T05:44:52+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:52+00:00 DEBUG > > Images set
+2020-08-08T05:44:52+00:00 DEBUG > Finished importing post ID 21771.
+2020-08-08T05:44:52+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:44:52+00:00 DEBUG > Inserting 900mm 36 Inch Bolt Cutter Workpro Brand
+2020-08-08T05:44:52+00:00 DEBUG > Inserted - post ID is 21772.
+2020-08-08T05:44:52+00:00 DEBUG > > Importing image "8cfe219f38ae291cc024056bd2e8d3cd-1-2.jpg"
+2020-08-08T05:44:55+00:00 DEBUG > > Error importing image "8cfe219f38ae291cc024056bd2e8d3cd-1-2.jpg"
+2020-08-08T05:44:55+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:55+00:00 DEBUG > > Images set
+2020-08-08T05:44:55+00:00 DEBUG > Finished importing post ID 21772.
+2020-08-08T05:44:55+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:44:55+00:00 DEBUG > Inserting 12&quot;(305MM ) Heavy Duty Hacksaw Workpro Brand
+2020-08-08T05:44:55+00:00 DEBUG > Inserted - post ID is 21773.
+2020-08-08T05:44:56+00:00 DEBUG > > Importing image "9b7c5e826bdc1ac60a9e3050f8731e84.png_720x720q75-2.jpg_-2.jpg"
+2020-08-08T05:44:59+00:00 DEBUG > > Error importing image "9b7c5e826bdc1ac60a9e3050f8731e84.png_720x720q75-2.jpg_-2.jpg"
+2020-08-08T05:44:59+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:44:59+00:00 DEBUG > > Images set
+2020-08-08T05:44:59+00:00 DEBUG > Finished importing post ID 21773.
+2020-08-08T05:44:59+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:44:59+00:00 DEBUG > Inserting 18Inch Hand Saw Workpro Brand
+2020-08-08T05:44:59+00:00 DEBUG > Inserted - post ID is 21774.
+2020-08-08T05:44:59+00:00 DEBUG > > Importing image "cua-cam-tay-workpro-W016019-1-2.jpg"
+2020-08-08T05:45:03+00:00 DEBUG > > Error importing image "cua-cam-tay-workpro-W016019-1-2.jpg"
+2020-08-08T05:45:03+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:03+00:00 DEBUG > > Images set
+2020-08-08T05:45:03+00:00 DEBUG > Finished importing post ID 21774.
+2020-08-08T05:45:03+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:45:03+00:00 DEBUG > Inserting 20InchHand Saw Workpro Brand
+2020-08-08T05:45:03+00:00 DEBUG > Inserted - post ID is 21775.
+2020-08-08T05:45:03+00:00 DEBUG > > Importing image "cua-cam-tay-workpro-W016020-2.jpg"
+2020-08-08T05:45:07+00:00 DEBUG > > Error importing image "cua-cam-tay-workpro-W016020-2.jpg"
+2020-08-08T05:45:07+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:07+00:00 DEBUG > > Images set
+2020-08-08T05:45:07+00:00 DEBUG > Finished importing post ID 21775.
+2020-08-08T05:45:07+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:45:07+00:00 DEBUG > Inserting 6PC Screwdriver Set Workpro Brand
+2020-08-08T05:45:07+00:00 DEBUG > Inserted - post ID is 21776.
+2020-08-08T05:45:07+00:00 DEBUG > > Importing image "W000800-500x500-1-2.jpg"
+2020-08-08T05:45:11+00:00 DEBUG > > Error importing image "W000800-500x500-1-2.jpg"
+2020-08-08T05:45:11+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:11+00:00 DEBUG > > Images set
+2020-08-08T05:45:11+00:00 DEBUG > Finished importing post ID 21776.
+2020-08-08T05:45:11+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:45:11+00:00 DEBUG > Inserting 38PC Ratcheting Screwdriver Set Workpro Brand
+2020-08-08T05:45:11+00:00 DEBUG > Inserted - post ID is 21777.
+2020-08-08T05:45:11+00:00 DEBUG > > Importing image "workpro-obeng-set-reparasi-38-in-1-w021182-1-2-1.jpg"
+2020-08-08T05:45:14+00:00 DEBUG > > Error importing image "workpro-obeng-set-reparasi-38-in-1-w021182-1-2-1.jpg"
+2020-08-08T05:45:14+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:14+00:00 DEBUG > > Images set
+2020-08-08T05:45:14+00:00 DEBUG > Finished importing post ID 21777.
+2020-08-08T05:45:14+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:45:14+00:00 DEBUG > Inserting 9PC Long Arm Torx Key Set Workpro Brand
+2020-08-08T05:45:14+00:00 DEBUG > Inserted - post ID is 21778.
+2020-08-08T05:45:14+00:00 DEBUG > > Importing image "3bf1aa1fcb84c9ab625ef816d088edb0-1-2.jpg"
+2020-08-08T05:45:18+00:00 DEBUG > > Error importing image "3bf1aa1fcb84c9ab625ef816d088edb0-1-2.jpg"
+2020-08-08T05:45:18+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:18+00:00 DEBUG > > Images set
+2020-08-08T05:45:18+00:00 DEBUG > Finished importing post ID 21778.
+2020-08-08T05:45:18+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:45:18+00:00 DEBUG > Inserting 9PC Long Arm Ball Point Key 1.5mm to 10 mm Set (Metirc) Workpro Brand
+2020-08-08T05:45:18+00:00 DEBUG > Inserted - post ID is 21779.
+2020-08-08T05:45:18+00:00 DEBUG > > Importing image "troxSetWorkpro.jpg"
+2020-08-08T05:45:22+00:00 DEBUG > > Error importing image "troxSetWorkpro.jpg"
+2020-08-08T05:45:22+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:22+00:00 DEBUG > > Images set
+2020-08-08T05:45:22+00:00 DEBUG > Finished importing post ID 21779.
+2020-08-08T05:45:22+00:00 DEBUG Finished processing products.
+2020-08-08T05:45:32+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:45:32+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:45:32+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:45:32+00:00 DEBUG ---
+2020-08-08T05:45:32+00:00 DEBUG Processing products.
+2020-08-08T05:45:32+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:45:32+00:00 DEBUG > Inserting 9PC Long Arm Metric Hex Key Set 1.5mm to 10 mm Workpro Brand
+2020-08-08T05:45:32+00:00 DEBUG > Inserted - post ID is 21780.
+2020-08-08T05:45:32+00:00 DEBUG > > Importing image "2efedf17d51650e34af62ffaf0424dbd-2.jpg"
+2020-08-08T05:45:36+00:00 DEBUG > > Error importing image "2efedf17d51650e34af62ffaf0424dbd-2.jpg"
+2020-08-08T05:45:36+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:36+00:00 DEBUG > > Images set
+2020-08-08T05:45:36+00:00 DEBUG > Finished importing post ID 21780.
+2020-08-08T05:45:36+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:45:36+00:00 DEBUG > Inserting 10 Inch Hand Riveter Workpro Brand
+2020-08-08T05:45:36+00:00 DEBUG > Inserted - post ID is 21781.
+2020-08-08T05:45:36+00:00 DEBUG > > Importing image "dac2efef6c5d593155dfa5e273261b86-2.jpg"
+2020-08-08T05:45:39+00:00 DEBUG > > Error importing image "dac2efef6c5d593155dfa5e273261b86-2.jpg"
+2020-08-08T05:45:39+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:39+00:00 DEBUG > > Images set
+2020-08-08T05:45:39+00:00 DEBUG > Finished importing post ID 21781.
+2020-08-08T05:45:39+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:45:39+00:00 DEBUG > Inserting 160MM(6&quot;) Long Nose Plier Workpro Brand
+2020-08-08T05:45:39+00:00 DEBUG > Inserted - post ID is 21782.
+2020-08-08T05:45:39+00:00 DEBUG > > Importing image "6847996a-155e-4b88-a66a-60b1abbecf91-3.jpg"
+2020-08-08T05:45:43+00:00 DEBUG > > Error importing image "6847996a-155e-4b88-a66a-60b1abbecf91-3.jpg"
+2020-08-08T05:45:43+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:43+00:00 DEBUG > > Images set
+2020-08-08T05:45:43+00:00 DEBUG > Finished importing post ID 21782.
+2020-08-08T05:45:43+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:45:43+00:00 DEBUG > Inserting 200MM(8&quot;) Long Nose Plier Workpro Brand Workpro Brand
+2020-08-08T05:45:43+00:00 DEBUG > Inserted - post ID is 21783.
+2020-08-08T05:45:43+00:00 DEBUG > > Importing image "6847996a-155e-4b88-a66a-60b1abbecf91-1-2.jpg"
+2020-08-08T05:45:47+00:00 DEBUG > > Error importing image "6847996a-155e-4b88-a66a-60b1abbecf91-1-2.jpg"
+2020-08-08T05:45:47+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:47+00:00 DEBUG > > Images set
+2020-08-08T05:45:47+00:00 DEBUG > Finished importing post ID 21783.
+2020-08-08T05:45:47+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:45:47+00:00 DEBUG > Inserting 160MM(6&quot;) Diagonal Plier Workpro Brand
+2020-08-08T05:45:47+00:00 DEBUG > Inserted - post ID is 21784.
+2020-08-08T05:45:47+00:00 DEBUG > > Importing image "PlierWorkpro.jpg"
+2020-08-08T05:45:50+00:00 DEBUG > > Error importing image "PlierWorkpro.jpg"
+2020-08-08T05:45:50+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:50+00:00 DEBUG > > Images set
+2020-08-08T05:45:50+00:00 DEBUG > Finished importing post ID 21784.
+2020-08-08T05:45:50+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:45:50+00:00 DEBUG > Inserting 180MM(7&quot;) Heavy Duty Diagonal Plier Workpro Brand
+2020-08-08T05:45:50+00:00 DEBUG > Inserted - post ID is 21785.
+2020-08-08T05:45:50+00:00 DEBUG > > Importing image "PlierWorkpro.jpg"
+2020-08-08T05:45:54+00:00 DEBUG > > Error importing image "PlierWorkpro.jpg"
+2020-08-08T05:45:54+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:54+00:00 DEBUG > > Images set
+2020-08-08T05:45:54+00:00 DEBUG > Finished importing post ID 21785.
+2020-08-08T05:45:54+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:45:54+00:00 DEBUG > Inserting 160MM(6&quot;) Linesman Plier Workpro Brand
+2020-08-08T05:45:54+00:00 DEBUG > Inserted - post ID is 21786.
+2020-08-08T05:45:54+00:00 DEBUG > > Importing image "WORKPRO-8-Linesman-Pliers-Heavy-Duty-Cable-Wire-Cutting-8-inches-Plier-Cutter-Tool-1.jpg_960x960-1.jpg"
+2020-08-08T05:45:58+00:00 DEBUG > > Error importing image "WORKPRO-8-Linesman-Pliers-Heavy-Duty-Cable-Wire-Cutting-8-inches-Plier-Cutter-Tool-1.jpg_960x960-1.jpg"
+2020-08-08T05:45:58+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:45:58+00:00 DEBUG > > Images set
+2020-08-08T05:45:58+00:00 DEBUG > Finished importing post ID 21786.
+2020-08-08T05:45:58+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:45:58+00:00 DEBUG > Inserting 200MM(8&quot;) Linesman Plier Workpro Brand
+2020-08-08T05:45:58+00:00 DEBUG > Inserted - post ID is 21787.
+2020-08-08T05:45:58+00:00 DEBUG > > Importing image "WORKPRO-8-Linesman-Pliers-Heavy-Duty-Cable-Wire-Cutting-8-inches-Plier-Cutter-Tool-2.jpg_960x960-2.jpg"
+2020-08-08T05:46:01+00:00 DEBUG > > Error importing image "WORKPRO-8-Linesman-Pliers-Heavy-Duty-Cable-Wire-Cutting-8-inches-Plier-Cutter-Tool-2.jpg_960x960-2.jpg"
+2020-08-08T05:46:01+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:01+00:00 DEBUG > > Images set
+2020-08-08T05:46:01+00:00 DEBUG > Finished importing post ID 21787.
+2020-08-08T05:46:01+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:46:01+00:00 DEBUG > Inserting 9&quot;(230MM) Linesman Plier Workpro Brand
+2020-08-08T05:46:01+00:00 DEBUG > Inserted - post ID is 21788.
+2020-08-08T05:46:02+00:00 DEBUG > > Importing image "9644c76f3ecc67623e9be95623bee4e0-2.jpg"
+2020-08-08T05:46:05+00:00 DEBUG > > Error importing image "9644c76f3ecc67623e9be95623bee4e0-2.jpg"
+2020-08-08T05:46:05+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:05+00:00 DEBUG > > Images set
+2020-08-08T05:46:05+00:00 DEBUG > Finished importing post ID 21788.
+2020-08-08T05:46:05+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:46:05+00:00 DEBUG > Inserting 160MM(6&quot;) Slip Joint Plier Workpro Brand
+2020-08-08T05:46:05+00:00 DEBUG > Inserted - post ID is 21789.
+2020-08-08T05:46:05+00:00 DEBUG > > Importing image "slipJointPlier6Inch.jpg"
+2020-08-08T05:46:09+00:00 DEBUG > > Error importing image "slipJointPlier6Inch.jpg"
+2020-08-08T05:46:09+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:09+00:00 DEBUG > > Images set
+2020-08-08T05:46:09+00:00 DEBUG > Finished importing post ID 21789.
+2020-08-08T05:46:09+00:00 DEBUG Finished processing products.
+2020-08-08T05:46:10+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:46:10+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:46:10+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:46:10+00:00 DEBUG ---
+2020-08-08T05:46:10+00:00 DEBUG Processing products.
+2020-08-08T05:46:10+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:46:10+00:00 DEBUG > Inserting 200MM 8 Inch Slip Joint Plier Workpro Brand
+2020-08-08T05:46:10+00:00 DEBUG > Inserted - post ID is 21790.
+2020-08-08T05:46:10+00:00 DEBUG > > Importing image "slipJointPlier6Inch.jpg"
+2020-08-08T05:46:14+00:00 DEBUG > > Error importing image "slipJointPlier6Inch.jpg"
+2020-08-08T05:46:14+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:14+00:00 DEBUG > > Images set
+2020-08-08T05:46:14+00:00 DEBUG > Finished importing post ID 21790.
+2020-08-08T05:46:14+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:46:14+00:00 DEBUG > Inserting 160MM(6&quot;) End Cutting Pliers Workpro Brand
+2020-08-08T05:46:14+00:00 DEBUG > Inserted - post ID is 21791.
+2020-08-08T05:46:14+00:00 DEBUG > > Importing image "e83264cadeeef2fe5d4d42a5b9025913-1-2.jpg"
+2020-08-08T05:46:18+00:00 DEBUG > > Error importing image "e83264cadeeef2fe5d4d42a5b9025913-1-2.jpg"
+2020-08-08T05:46:18+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:18+00:00 DEBUG > > Images set
+2020-08-08T05:46:18+00:00 DEBUG > Finished importing post ID 21791.
+2020-08-08T05:46:18+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:46:18+00:00 DEBUG > Inserting 160MM(6&quot;) Stripper Pliers Workpro Brand
+2020-08-08T05:46:18+00:00 DEBUG > Inserted - post ID is 21792.
+2020-08-08T05:46:18+00:00 DEBUG > > Importing image "d215659989681e787c04c3ac8971faef-2.jpg"
+2020-08-08T05:46:21+00:00 DEBUG > > Error importing image "d215659989681e787c04c3ac8971faef-2.jpg"
+2020-08-08T05:46:21+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:21+00:00 DEBUG > > Images set
+2020-08-08T05:46:21+00:00 DEBUG > Finished importing post ID 21792.
+2020-08-08T05:46:21+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:46:21+00:00 DEBUG > Inserting 250MM 10 Inch Groove Joint Plier Workpro Brand
+2020-08-08T05:46:21+00:00 DEBUG > Inserted - post ID is 21793.
+2020-08-08T05:46:21+00:00 DEBUG > > Importing image "grooveJointPlier.jpg"
+2020-08-08T05:46:25+00:00 DEBUG > > Error importing image "grooveJointPlier.jpg"
+2020-08-08T05:46:25+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:25+00:00 DEBUG > > Images set
+2020-08-08T05:46:25+00:00 DEBUG > Finished importing post ID 21793.
+2020-08-08T05:46:25+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:46:25+00:00 DEBUG > Inserting 300MM 12 Inch Groove Joint Plier Workpro Brand
+2020-08-08T05:46:25+00:00 DEBUG > Inserted - post ID is 21794.
+2020-08-08T05:46:25+00:00 DEBUG > > Importing image "grooveJointPlier.jpg"
+2020-08-08T05:46:29+00:00 DEBUG > > Error importing image "grooveJointPlier.jpg"
+2020-08-08T05:46:29+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:29+00:00 DEBUG > > Images set
+2020-08-08T05:46:29+00:00 DEBUG > Finished importing post ID 21794.
+2020-08-08T05:46:29+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:46:29+00:00 DEBUG > Inserting Mini Long Nose Pliers Workpro Brand
+2020-08-08T05:46:29+00:00 DEBUG > Inserted - post ID is 21795.
+2020-08-08T05:46:29+00:00 DEBUG > > Importing image "39fd884d29632fedff755a2e97e9385c.jpeg"
+2020-08-08T05:46:32+00:00 DEBUG > > Error importing image "39fd884d29632fedff755a2e97e9385c.jpeg"
+2020-08-08T05:46:32+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:32+00:00 DEBUG > > Images set
+2020-08-08T05:46:32+00:00 DEBUG > Finished importing post ID 21795.
+2020-08-08T05:46:32+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:46:32+00:00 DEBUG > Inserting Mini Diagonal Pliers Workpro Brand
+2020-08-08T05:46:33+00:00 DEBUG > Inserted - post ID is 21796.
+2020-08-08T05:46:33+00:00 DEBUG > > Importing image "667929_1-1-2-1.jpg"
+2020-08-08T05:46:36+00:00 DEBUG > > Error importing image "667929_1-1-2-1.jpg"
+2020-08-08T05:46:36+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:36+00:00 DEBUG > > Images set
+2020-08-08T05:46:36+00:00 DEBUG > Finished importing post ID 21796.
+2020-08-08T05:46:36+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:46:36+00:00 DEBUG > Inserting Mini Needle Nose Pliers Workpro Brand
+2020-08-08T05:46:36+00:00 DEBUG > Inserted - post ID is 21797.
+2020-08-08T05:46:36+00:00 DEBUG > > Importing image "703424_1-2-600x450-1.jpg"
+2020-08-08T05:46:40+00:00 DEBUG > > Error importing image "703424_1-2-600x450-1.jpg"
+2020-08-08T05:46:40+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:40+00:00 DEBUG > > Images set
+2020-08-08T05:46:40+00:00 DEBUG > Finished importing post ID 21797.
+2020-08-08T05:46:40+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:46:40+00:00 DEBUG > Inserting Punch Pliers Workpro Brand
+2020-08-08T05:46:40+00:00 DEBUG > Inserted - post ID is 21798.
+2020-08-08T05:46:40+00:00 DEBUG > > Importing image "product-image-1143327482-2.jpg"
+2020-08-08T05:46:44+00:00 DEBUG > > Error importing image "product-image-1143327482-2.jpg"
+2020-08-08T05:46:44+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:44+00:00 DEBUG > > Images set
+2020-08-08T05:46:44+00:00 DEBUG > Finished importing post ID 21798.
+2020-08-08T05:46:44+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:46:44+00:00 DEBUG > Inserting 180MM(7&quot;) Curved Jaw Locking Pliers Workpro Brand
+2020-08-08T05:46:44+00:00 DEBUG > Inserted - post ID is 21799.
+2020-08-08T05:46:44+00:00 DEBUG > > Importing image "51T3jU0SrkL._SX425_-1-2.jpg"
+2020-08-08T05:46:47+00:00 DEBUG > > Error importing image "51T3jU0SrkL._SX425_-1-2.jpg"
+2020-08-08T05:46:47+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:47+00:00 DEBUG > > Images set
+2020-08-08T05:46:47+00:00 DEBUG > Finished importing post ID 21799.
+2020-08-08T05:46:47+00:00 DEBUG Finished processing products.
+2020-08-08T05:46:49+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:46:49+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:46:49+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:46:49+00:00 DEBUG ---
+2020-08-08T05:46:49+00:00 DEBUG Processing products.
+2020-08-08T05:46:49+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:46:49+00:00 DEBUG > Inserting 10&quot; Curve Jaw Locking Pliers Workpro Brand
+2020-08-08T05:46:49+00:00 DEBUG > Inserted - post ID is 21800.
+2020-08-08T05:46:49+00:00 DEBUG > > Importing image "download-1-2.png"
+2020-08-08T05:46:52+00:00 DEBUG > > Error importing image "download-1-2.png"
+2020-08-08T05:46:52+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:52+00:00 DEBUG > > Images set
+2020-08-08T05:46:52+00:00 DEBUG > Finished importing post ID 21800.
+2020-08-08T05:46:52+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:46:52+00:00 DEBUG > Inserting 180MM(7&quot;) Curved Jaw Locking Pliers Workpro Brand
+2020-08-08T05:46:52+00:00 DEBUG > Inserted - post ID is 21801.
+2020-08-08T05:46:52+00:00 DEBUG > > Importing image "45bc9168559d3a9075abba330991471c-2.jpg"
+2020-08-08T05:46:56+00:00 DEBUG > > Error importing image "45bc9168559d3a9075abba330991471c-2.jpg"
+2020-08-08T05:46:56+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:46:56+00:00 DEBUG > > Images set
+2020-08-08T05:46:56+00:00 DEBUG > Finished importing post ID 21801.
+2020-08-08T05:46:56+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:46:56+00:00 DEBUG > Inserting 250MM(10&quot;)Curved Jaw Locking Pliers Workpro Brand
+2020-08-08T05:46:56+00:00 DEBUG > Inserted - post ID is 21802.
+2020-08-08T05:46:56+00:00 DEBUG > > Importing image "5ef42f75b5a3c-2.jpg"
+2020-08-08T05:47:00+00:00 DEBUG > > Error importing image "5ef42f75b5a3c-2.jpg"
+2020-08-08T05:47:00+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:00+00:00 DEBUG > > Images set
+2020-08-08T05:47:00+00:00 DEBUG > Finished importing post ID 21802.
+2020-08-08T05:47:00+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:47:00+00:00 DEBUG > Inserting 280MM(11&quot;)&quot; C-Clamp Locking Pliers Workpro Brand
+2020-08-08T05:47:00+00:00 DEBUG > Inserted - post ID is 21803.
+2020-08-08T05:47:00+00:00 DEBUG > > Importing image "WOR-W031081-2.jpg"
+2020-08-08T05:47:04+00:00 DEBUG > > Error importing image "WOR-W031081-2.jpg"
+2020-08-08T05:47:04+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:04+00:00 DEBUG > > Images set
+2020-08-08T05:47:04+00:00 DEBUG > Finished importing post ID 21803.
+2020-08-08T05:47:04+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:47:04+00:00 DEBUG > Inserting 450MM(18&quot;)&quot; C-Clamp Locking Pliers Workpro Brand
+2020-08-08T05:47:04+00:00 DEBUG > Inserted - post ID is 21804.
+2020-08-08T05:47:04+00:00 DEBUG > > Importing image "WOR-W031082-2.jpg"
+2020-08-08T05:47:08+00:00 DEBUG > > Error importing image "WOR-W031082-2.jpg"
+2020-08-08T05:47:08+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:08+00:00 DEBUG > > Images set
+2020-08-08T05:47:08+00:00 DEBUG > Finished importing post ID 21804.
+2020-08-08T05:47:08+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:47:08+00:00 DEBUG > Inserting 250MM(10&quot;) Sheet Locking Pliers Workpro Brand
+2020-08-08T05:47:08+00:00 DEBUG > Inserted - post ID is 21805.
+2020-08-08T05:47:08+00:00 DEBUG > > Importing image "8803d60fc9eba09ef6bee35cf96dad11-2.jpg"
+2020-08-08T05:47:12+00:00 DEBUG > > Error importing image "8803d60fc9eba09ef6bee35cf96dad11-2.jpg"
+2020-08-08T05:47:12+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:12+00:00 DEBUG > > Images set
+2020-08-08T05:47:12+00:00 DEBUG > Finished importing post ID 21805.
+2020-08-08T05:47:12+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:47:12+00:00 DEBUG > Inserting 3&quot; C-Clamp Workpro Brand
+2020-08-08T05:47:12+00:00 DEBUG > Inserted - post ID is 21806.
+2020-08-08T05:47:12+00:00 DEBUG > > Importing image "prensa-c-1-pulg-25-mm-workpro-w032016-D_NQ_NP_961285-MLA40521517140_012020-Q-2.jpg"
+2020-08-08T05:47:16+00:00 DEBUG > > Error importing image "prensa-c-1-pulg-25-mm-workpro-w032016-D_NQ_NP_961285-MLA40521517140_012020-Q-2.jpg"
+2020-08-08T05:47:16+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:16+00:00 DEBUG > > Images set
+2020-08-08T05:47:16+00:00 DEBUG > Finished importing post ID 21806.
+2020-08-08T05:47:16+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:47:16+00:00 DEBUG > Inserting 4&quot; C-Clamp Workpro Brand
+2020-08-08T05:47:16+00:00 DEBUG > Inserted - post ID is 21807.
+2020-08-08T05:47:16+00:00 DEBUG > > Importing image "c-clamp-203-mm-8-2.png"
+2020-08-08T05:47:20+00:00 DEBUG > > Error importing image "c-clamp-203-mm-8-2.png"
+2020-08-08T05:47:20+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:20+00:00 DEBUG > > Images set
+2020-08-08T05:47:20+00:00 DEBUG > Finished importing post ID 21807.
+2020-08-08T05:47:20+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:47:20+00:00 DEBUG > Inserting 10&quot; Let Cut Aviation Tin Snip Workpro Brand
+2020-08-08T05:47:20+00:00 DEBUG > Inserted - post ID is 21808.
+2020-08-08T05:47:20+00:00 DEBUG > > Importing image "155488793814-2.jpg"
+2020-08-08T05:47:26+00:00 DEBUG > > Error importing image "155488793814-2.jpg"
+2020-08-08T05:47:26+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:26+00:00 DEBUG > > Images set
+2020-08-08T05:47:26+00:00 DEBUG > Finished importing post ID 21808.
+2020-08-08T05:47:26+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:47:26+00:00 DEBUG > Inserting 10&quot; Straight Aviation Tin Snip Workpro Brand
+2020-08-08T05:47:26+00:00 DEBUG > Inserted - post ID is 21809.
+2020-08-08T05:47:26+00:00 DEBUG > > Importing image "abec4c4b2596e28f2936635e3c11a9db-2.jpg"
+2020-08-08T05:47:31+00:00 DEBUG > > Error importing image "abec4c4b2596e28f2936635e3c11a9db-2.jpg"
+2020-08-08T05:47:31+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:31+00:00 DEBUG > > Images set
+2020-08-08T05:47:31+00:00 DEBUG > Finished importing post ID 21809.
+2020-08-08T05:47:31+00:00 DEBUG Finished processing products.
+2020-08-08T05:47:41+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:47:41+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:47:41+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:47:41+00:00 DEBUG ---
+2020-08-08T05:47:41+00:00 DEBUG Processing products.
+2020-08-08T05:47:41+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:47:41+00:00 DEBUG > Inserting 10&quot; Right Cut Aviation Tin Snip Workpro Brand
+2020-08-08T05:47:41+00:00 DEBUG > Inserted - post ID is 21810.
+2020-08-08T05:47:41+00:00 DEBUG > > Importing image "W015006-10-INCH-RIGHT-CUT-AVIATION-TIN-SNIP1-2.jpg"
+2020-08-08T05:47:45+00:00 DEBUG > > Error importing image "W015006-10-INCH-RIGHT-CUT-AVIATION-TIN-SNIP1-2.jpg"
+2020-08-08T05:47:45+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:45+00:00 DEBUG > > Images set
+2020-08-08T05:47:45+00:00 DEBUG > Finished importing post ID 21810.
+2020-08-08T05:47:45+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:47:45+00:00 DEBUG > Inserting 6&quot; C-Clamp Workpro Brand
+2020-08-08T05:47:45+00:00 DEBUG > Inserted - post ID is 21811.
+2020-08-08T05:47:45+00:00 DEBUG > > Importing image "prensa-linea-pesada-workpro-w032020_iZ1125387468XvZxXpZ1XfZ195832205-835617242-1-2.jpgXsZ195832205xIM-1-2.jpg"
+2020-08-08T05:47:49+00:00 DEBUG > > Error importing image "prensa-linea-pesada-workpro-w032020_iZ1125387468XvZxXpZ1XfZ195832205-835617242-1-2.jpgXsZ195832205xIM-1-2.jpg"
+2020-08-08T05:47:49+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:49+00:00 DEBUG > > Images set
+2020-08-08T05:47:49+00:00 DEBUG > Finished importing post ID 21811.
+2020-08-08T05:47:49+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:47:49+00:00 DEBUG > Inserting 8&quot; C-Clamp Workpro Brand
+2020-08-08T05:47:49+00:00 DEBUG > Inserted - post ID is 21812.
+2020-08-08T05:47:49+00:00 DEBUG > > Importing image "W032016-1-600x600-1-2.jpg"
+2020-08-08T05:47:53+00:00 DEBUG > > Error importing image "W032016-1-600x600-1-2.jpg"
+2020-08-08T05:47:53+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:53+00:00 DEBUG > > Images set
+2020-08-08T05:47:53+00:00 DEBUG > Finished importing post ID 21812.
+2020-08-08T05:47:53+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:47:53+00:00 DEBUG > Inserting 18&quot; Steel Bar Clamp Workpro Brand
+2020-08-08T05:47:53+00:00 DEBUG > Inserted - post ID is 21813.
+2020-08-08T05:47:53+00:00 DEBUG > > Importing image "b395daf6-9755-443a-b697-30bf358d0ee8.a03f936b77de74c8c2a775b39874636a-2.jpeg"
+2020-08-08T05:47:57+00:00 DEBUG > > Error importing image "b395daf6-9755-443a-b697-30bf358d0ee8.a03f936b77de74c8c2a775b39874636a-2.jpeg"
+2020-08-08T05:47:57+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:47:57+00:00 DEBUG > > Images set
+2020-08-08T05:47:57+00:00 DEBUG > Finished importing post ID 21813.
+2020-08-08T05:47:57+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:47:57+00:00 DEBUG > Inserting 24&quot; Steel Bar Clamp Workpro Brand
+2020-08-08T05:47:57+00:00 DEBUG > Inserted - post ID is 21814.
+2020-08-08T05:47:57+00:00 DEBUG > > Importing image "e09ee2b5-240a-461b-8331-31d2d5369372_1.dd53607767a77be4b9a4052fff74d5cf-2.jpeg"
+2020-08-08T05:48:00+00:00 DEBUG > > Error importing image "e09ee2b5-240a-461b-8331-31d2d5369372_1.dd53607767a77be4b9a4052fff74d5cf-2.jpeg"
+2020-08-08T05:48:00+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:00+00:00 DEBUG > > Images set
+2020-08-08T05:48:00+00:00 DEBUG > Finished importing post ID 21814.
+2020-08-08T05:48:00+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:48:00+00:00 DEBUG > Inserting 16oz Ball Pein Hammer with Fiberglass Handle Workpro Brand
+2020-08-08T05:48:00+00:00 DEBUG > Inserted - post ID is 21815.
+2020-08-08T05:48:00+00:00 DEBUG > > Importing image "51efa7f8df32568ae942169c2323598f-2.png"
+2020-08-08T05:48:04+00:00 DEBUG > > Error importing image "51efa7f8df32568ae942169c2323598f-2.png"
+2020-08-08T05:48:04+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:04+00:00 DEBUG > > Images set
+2020-08-08T05:48:04+00:00 DEBUG > Finished importing post ID 21815.
+2020-08-08T05:48:04+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:48:04+00:00 DEBUG > Inserting 24OZ Ball Pein Hammer with Fiberglass Handle Workpro Brand
+2020-08-08T05:48:04+00:00 DEBUG > Inserted - post ID is 21816.
+2020-08-08T05:48:04+00:00 DEBUG > > Importing image "batch-upload_738fb16d-542c-41ae-be2b-0a75f18dcae7-1-2.jpg"
+2020-08-08T05:48:08+00:00 DEBUG > > Error importing image "batch-upload_738fb16d-542c-41ae-be2b-0a75f18dcae7-1-2.jpg"
+2020-08-08T05:48:08+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:08+00:00 DEBUG > > Images set
+2020-08-08T05:48:08+00:00 DEBUG > Finished importing post ID 21816.
+2020-08-08T05:48:08+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:48:08+00:00 DEBUG > Inserting 24&quot; Demolition Bar Workpro Brand
+2020-08-08T05:48:08+00:00 DEBUG > Inserted - post ID is 21817.
+2020-08-08T05:48:08+00:00 DEBUG > > Importing image "TLSWORBARD24-2.jpg"
+2020-08-08T05:48:11+00:00 DEBUG > > Error importing image "TLSWORBARD24-2.jpg"
+2020-08-08T05:48:11+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:11+00:00 DEBUG > > Images set
+2020-08-08T05:48:11+00:00 DEBUG > Finished importing post ID 21817.
+2020-08-08T05:48:11+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:48:11+00:00 DEBUG > Inserting 3M(10FT) Plastic Tape Measure Workpro Brand
+2020-08-08T05:48:11+00:00 DEBUG > Inserted - post ID is 21818.
+2020-08-08T05:48:11+00:00 DEBUG > > Importing image "WORKPRO-Stainless-Steel-Tape-Measure-High-Precision-Industrial-Measurement-3-M-5-M-7-5-M-2.jpg_640x640-1-2.jpg"
+2020-08-08T05:48:15+00:00 DEBUG > > Error importing image "WORKPRO-Stainless-Steel-Tape-Measure-High-Precision-Industrial-Measurement-3-M-5-M-7-5-M-2.jpg_640x640-1-2.jpg"
+2020-08-08T05:48:15+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:15+00:00 DEBUG > > Images set
+2020-08-08T05:48:15+00:00 DEBUG > Finished importing post ID 21818.
+2020-08-08T05:48:15+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:48:15+00:00 DEBUG > Inserting 5M (16FT) Plastic Tape Measure Workpro Brand
+2020-08-08T05:48:15+00:00 DEBUG > Inserted - post ID is 21819.
+2020-08-08T05:48:15+00:00 DEBUG > > Importing image "WORKPRO-Stainless-Steel-Tape-Measure-High-Precision-Industrial-Measurement-3-M-5-M-7-5-M-2.jpg_640x640-2-2.jpg"
+2020-08-08T05:48:19+00:00 DEBUG > > Error importing image "WORKPRO-Stainless-Steel-Tape-Measure-High-Precision-Industrial-Measurement-3-M-5-M-7-5-M-2.jpg_640x640-2-2.jpg"
+2020-08-08T05:48:19+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:19+00:00 DEBUG > > Images set
+2020-08-08T05:48:19+00:00 DEBUG > Finished importing post ID 21819.
+2020-08-08T05:48:19+00:00 DEBUG Finished processing products.
+2020-08-08T05:48:29+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:48:29+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:48:29+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:48:29+00:00 DEBUG ---
+2020-08-08T05:48:29+00:00 DEBUG Processing products.
+2020-08-08T05:48:29+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:48:29+00:00 DEBUG > Inserting 7.5M (25FT)Plastic Tape Measure Workpro Brand
+2020-08-08T05:48:29+00:00 DEBUG > Inserted - post ID is 21820.
+2020-08-08T05:48:29+00:00 DEBUG > > Importing image "HTB1kdJiaND1gK0jSZFsq6zldVXaV-2.jpg"
+2020-08-08T05:48:32+00:00 DEBUG > > Error importing image "HTB1kdJiaND1gK0jSZFsq6zldVXaV-2.jpg"
+2020-08-08T05:48:32+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:32+00:00 DEBUG > > Images set
+2020-08-08T05:48:32+00:00 DEBUG > Finished importing post ID 21820.
+2020-08-08T05:48:32+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:48:32+00:00 DEBUG > Inserting 3M(10FT)Plastic Tape Measure ( Self Lock ) Workpro Brand
+2020-08-08T05:48:32+00:00 DEBUG > Inserted - post ID is 21821.
+2020-08-08T05:48:32+00:00 DEBUG > > Importing image "5653037314322282054_pic1-2.jpg"
+2020-08-08T05:48:36+00:00 DEBUG > > Error importing image "5653037314322282054_pic1-2.jpg"
+2020-08-08T05:48:36+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:36+00:00 DEBUG > > Images set
+2020-08-08T05:48:36+00:00 DEBUG > Finished importing post ID 21821.
+2020-08-08T05:48:36+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:48:36+00:00 DEBUG > Inserting 150MM/6&quot; Vernier Caliper Workpro Brand
+2020-08-08T05:48:36+00:00 DEBUG > Inserted - post ID is 21822.
+2020-08-08T05:48:36+00:00 DEBUG > > Importing image "7e43a9717a9f29fe270e62f167a5efcb_tn-1-2.jpg"
+2020-08-08T05:48:40+00:00 DEBUG > > Error importing image "7e43a9717a9f29fe270e62f167a5efcb_tn-1-2.jpg"
+2020-08-08T05:48:40+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:40+00:00 DEBUG > > Images set
+2020-08-08T05:48:40+00:00 DEBUG > Finished importing post ID 21822.
+2020-08-08T05:48:40+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:48:40+00:00 DEBUG > Inserting 9&quot; Plastic Torpedo Level Workpro Brand
+2020-08-08T05:48:40+00:00 DEBUG > Inserted - post ID is 21823.
+2020-08-08T05:48:40+00:00 DEBUG > > Importing image "3015051-2.jpg"
+2020-08-08T05:48:44+00:00 DEBUG > > Error importing image "3015051-2.jpg"
+2020-08-08T05:48:44+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:44+00:00 DEBUG > > Images set
+2020-08-08T05:48:44+00:00 DEBUG > Finished importing post ID 21823.
+2020-08-08T05:48:44+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:48:44+00:00 DEBUG > Inserting 1/2&quot; DR. Quick-Release Ratchet Workpro Brand
+2020-08-08T05:48:44+00:00 DEBUG > Inserted - post ID is 21824.
+2020-08-08T05:48:44+00:00 DEBUG > > Importing image "llave-crique-12-en-acero-cromo-vanadio-workpro-w071018-D_NQ_NP_761022-MLA40533332838_012020-F-2.jpg"
+2020-08-08T05:48:47+00:00 DEBUG > > Error importing image "llave-crique-12-en-acero-cromo-vanadio-workpro-w071018-D_NQ_NP_761022-MLA40533332838_012020-F-2.jpg"
+2020-08-08T05:48:47+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:47+00:00 DEBUG > > Images set
+2020-08-08T05:48:47+00:00 DEBUG > Finished importing post ID 21824.
+2020-08-08T05:48:47+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:48:47+00:00 DEBUG > Inserting 1/2&quot; DR. Quick-Release Ratchet Workpro Brand
+2020-08-08T05:48:47+00:00 DEBUG > Inserted - post ID is 21825.
+2020-08-08T05:48:47+00:00 DEBUG > > Importing image "klyuch_treshchotka_1_2_s_funktsiey_bystrogo_sbrosa_workpro_w071009_1542202662_3-2.jpg"
+2020-08-08T05:48:51+00:00 DEBUG > > Error importing image "klyuch_treshchotka_1_2_s_funktsiey_bystrogo_sbrosa_workpro_w071009_1542202662_3-2.jpg"
+2020-08-08T05:48:51+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:51+00:00 DEBUG > > Images set
+2020-08-08T05:48:51+00:00 DEBUG > Finished importing post ID 21825.
+2020-08-08T05:48:51+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:48:51+00:00 DEBUG > Inserting Circlip Pliers 7&#039;&#039;, External Straight Workpro Brand
+2020-08-08T05:48:51+00:00 DEBUG > Inserted - post ID is 21826.
+2020-08-08T05:48:51+00:00 DEBUG > > Importing image "82dfcabd105d153d326b75e116d0eb57-2.jpg"
+2020-08-08T05:48:55+00:00 DEBUG > > Error importing image "82dfcabd105d153d326b75e116d0eb57-2.jpg"
+2020-08-08T05:48:55+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:55+00:00 DEBUG > > Images set
+2020-08-08T05:48:55+00:00 DEBUG > Finished importing post ID 21826.
+2020-08-08T05:48:55+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:48:55+00:00 DEBUG > Inserting Circlip Pliers 7â€, External Bent Workpro Brand
+2020-08-08T05:48:55+00:00 DEBUG > Inserted - post ID is 21827.
+2020-08-08T05:48:55+00:00 DEBUG > > Importing image "5dd183b1-faab-46da-b980-deade57235a6-2.jpg"
+2020-08-08T05:48:59+00:00 DEBUG > > Error importing image "5dd183b1-faab-46da-b980-deade57235a6-2.jpg"
+2020-08-08T05:48:59+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:48:59+00:00 DEBUG > > Images set
+2020-08-08T05:48:59+00:00 DEBUG > Finished importing post ID 21827.
+2020-08-08T05:48:59+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:48:59+00:00 DEBUG > Inserting Circlip Pliers 7&#039;&#039;, Internal Straight Workpro Brand
+2020-08-08T05:48:59+00:00 DEBUG > Inserted - post ID is 21828.
+2020-08-08T05:48:59+00:00 DEBUG > > Importing image "kim-mui-phe-trong-mui-thang-workpro-1-2.jpg"
+2020-08-08T05:49:02+00:00 DEBUG > > Error importing image "kim-mui-phe-trong-mui-thang-workpro-1-2.jpg"
+2020-08-08T05:49:02+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:02+00:00 DEBUG > > Images set
+2020-08-08T05:49:02+00:00 DEBUG > Finished importing post ID 21828.
+2020-08-08T05:49:02+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:49:02+00:00 DEBUG > Inserting Circlip Pliers 7&#039;&#039;, Internal Bent Workpro Brand
+2020-08-08T05:49:02+00:00 DEBUG > Inserted - post ID is 21829.
+2020-08-08T05:49:02+00:00 DEBUG > > Importing image "kim-mo-phe-trong-mui-cong-2.jpg"
+2020-08-08T05:49:06+00:00 DEBUG > > Error importing image "kim-mo-phe-trong-mui-cong-2.jpg"
+2020-08-08T05:49:06+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:06+00:00 DEBUG > > Images set
+2020-08-08T05:49:06+00:00 DEBUG > Finished importing post ID 21829.
+2020-08-08T05:49:06+00:00 DEBUG Finished processing products.
+2020-08-08T05:49:16+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:49:16+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:49:16+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:49:16+00:00 DEBUG ---
+2020-08-08T05:49:16+00:00 DEBUG Processing products.
+2020-08-08T05:49:16+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:49:16+00:00 DEBUG > Inserting Sliding T-Bar 1/2&quot; Workpro Brand
+2020-08-08T05:49:16+00:00 DEBUG > Inserted - post ID is 21830.
+2020-08-08T05:49:16+00:00 DEBUG > Finished importing post ID 21830.
+2020-08-08T05:49:16+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:49:16+00:00 DEBUG > Inserting Extension Bar 1/2&quot;X5&quot; Workpro Brand
+2020-08-08T05:49:16+00:00 DEBUG > Inserted - post ID is 21831.
+2020-08-08T05:49:16+00:00 DEBUG > > Importing image "a4e494b05fbd1772737badf20bf1488b-product-2.jpg"
+2020-08-08T05:49:20+00:00 DEBUG > > Error importing image "a4e494b05fbd1772737badf20bf1488b-product-2.jpg"
+2020-08-08T05:49:20+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:20+00:00 DEBUG > > Images set
+2020-08-08T05:49:20+00:00 DEBUG > Finished importing post ID 21831.
+2020-08-08T05:49:20+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:49:20+00:00 DEBUG > Inserting 6&quot; Adjustable Wrench Workpro Brand
+2020-08-08T05:49:20+00:00 DEBUG > Inserted - post ID is 21832.
+2020-08-08T05:49:20+00:00 DEBUG > > Importing image "137185fbd5b8a2125308e2f586af4b02-2.jpg"
+2020-08-08T05:49:24+00:00 DEBUG > > Error importing image "137185fbd5b8a2125308e2f586af4b02-2.jpg"
+2020-08-08T05:49:24+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:24+00:00 DEBUG > > Images set
+2020-08-08T05:49:24+00:00 DEBUG > Finished importing post ID 21832.
+2020-08-08T05:49:24+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:49:24+00:00 DEBUG > Inserting 200MM(8&quot;) Vde Insulatd Long Nose Pliers Workpro Brand
+2020-08-08T05:49:24+00:00 DEBUG > Inserted - post ID is 21833.
+2020-08-08T05:49:24+00:00 DEBUG > > Importing image "669361_1-2.jpg"
+2020-08-08T05:49:27+00:00 DEBUG > > Error importing image "669361_1-2.jpg"
+2020-08-08T05:49:27+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:27+00:00 DEBUG > > Images set
+2020-08-08T05:49:27+00:00 DEBUG > Finished importing post ID 21833.
+2020-08-08T05:49:27+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:49:27+00:00 DEBUG > Inserting 180MM(7&quot;) Vde Insulatd Diagonal Pliers Workpro Brand
+2020-08-08T05:49:27+00:00 DEBUG > Inserted - post ID is 21834.
+2020-08-08T05:49:27+00:00 DEBUG > > Importing image "669892_1-2.jpg"
+2020-08-08T05:49:31+00:00 DEBUG > > Error importing image "669892_1-2.jpg"
+2020-08-08T05:49:31+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:31+00:00 DEBUG > > Images set
+2020-08-08T05:49:31+00:00 DEBUG > Finished importing post ID 21834.
+2020-08-08T05:49:31+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:49:31+00:00 DEBUG > Inserting 200MM(8&quot;) Vde Insulatd Linesman Pliers Workpro Brand
+2020-08-08T05:49:31+00:00 DEBUG > Inserted - post ID is 21835.
+2020-08-08T05:49:31+00:00 DEBUG > > Importing image "955f444baf437dfb32bcc7ffa1ae4180-2.jpg"
+2020-08-08T05:49:35+00:00 DEBUG > > Error importing image "955f444baf437dfb32bcc7ffa1ae4180-2.jpg"
+2020-08-08T05:49:35+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:35+00:00 DEBUG > > Images set
+2020-08-08T05:49:35+00:00 DEBUG > Finished importing post ID 21835.
+2020-08-08T05:49:35+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:49:35+00:00 DEBUG > Inserting 6&quot; Stranded Wire Tripper Workpro Brand
+2020-08-08T05:49:35+00:00 DEBUG > Inserted - post ID is 21836.
+2020-08-08T05:49:35+00:00 DEBUG > > Importing image "ac764480382bafaac18ed8302b07ac47-2.png"
+2020-08-08T05:49:38+00:00 DEBUG > > Error importing image "ac764480382bafaac18ed8302b07ac47-2.png"
+2020-08-08T05:49:38+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:38+00:00 DEBUG > > Images set
+2020-08-08T05:49:38+00:00 DEBUG > Finished importing post ID 21836.
+2020-08-08T05:49:38+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:49:38+00:00 DEBUG > Inserting 6-1/2&quot;(168MM) Automatic Wire Stripper Workpro Brand
+2020-08-08T05:49:38+00:00 DEBUG > Inserted - post ID is 21837.
+2020-08-08T05:49:38+00:00 DEBUG > > Importing image "wxoheL_simg_de2fe0_500x500_maxb-2.jpg"
+2020-08-08T05:49:42+00:00 DEBUG > > Error importing image "wxoheL_simg_de2fe0_500x500_maxb-2.jpg"
+2020-08-08T05:49:42+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:42+00:00 DEBUG > > Images set
+2020-08-08T05:49:42+00:00 DEBUG > Finished importing post ID 21837.
+2020-08-08T05:49:42+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:49:42+00:00 DEBUG > Inserting Wire Stripper Magic Box Workpro Brand
+2020-08-08T05:49:42+00:00 DEBUG > Inserted - post ID is 21838.
+2020-08-08T05:49:42+00:00 DEBUG > > Importing image "a3a6376e5670b48006753b2507b7c0e0-1-2.png"
+2020-08-08T05:49:46+00:00 DEBUG > > Error importing image "a3a6376e5670b48006753b2507b7c0e0-1-2.png"
+2020-08-08T05:49:46+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:46+00:00 DEBUG > > Images set
+2020-08-08T05:49:46+00:00 DEBUG > Finished importing post ID 21838.
+2020-08-08T05:49:46+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:49:46+00:00 DEBUG > Inserting Heavy Duty Tubing Bender (15MM- 22MM) Workpro Brand
+2020-08-08T05:49:46+00:00 DEBUG > Inserted - post ID is 21839.
+2020-08-08T05:49:46+00:00 DEBUG > > Importing image "9381bf636450fd3ae7d01396c1983143-2.jpg"
+2020-08-08T05:49:49+00:00 DEBUG > > Error importing image "9381bf636450fd3ae7d01396c1983143-2.jpg"
+2020-08-08T05:49:49+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:49+00:00 DEBUG > > Images set
+2020-08-08T05:49:49+00:00 DEBUG > Finished importing post ID 21839.
+2020-08-08T05:49:49+00:00 DEBUG Finished processing products.
+2020-08-08T05:49:50+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:49:50+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:49:50+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:49:50+00:00 DEBUG ---
+2020-08-08T05:49:50+00:00 DEBUG Processing products.
+2020-08-08T05:49:50+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:49:50+00:00 DEBUG > Inserting Tube Cutter -1/8 to 7/8 (3-22mm) Workpro Brand
+2020-08-08T05:49:51+00:00 DEBUG > Inserted - post ID is 21840.
+2020-08-08T05:49:51+00:00 DEBUG > > Importing image "workpro-w101001-kophtes-chalkosolenon-eidos-koftis-xalkosolina-ergaleia-xeiros-kopis-solina-cheiros-nikos-ntagiopoulos_961_x800-2.jpg"
+2020-08-08T05:49:54+00:00 DEBUG > > Error importing image "workpro-w101001-kophtes-chalkosolenon-eidos-koftis-xalkosolina-ergaleia-xeiros-kopis-solina-cheiros-nikos-ntagiopoulos_961_x800-2.jpg"
+2020-08-08T05:49:54+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:54+00:00 DEBUG > > Images set
+2020-08-08T05:49:54+00:00 DEBUG > Finished importing post ID 21840.
+2020-08-08T05:49:54+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:49:54+00:00 DEBUG > Inserting 4&quot; Bench Vise Fix With Anvil Workpro Brand
+2020-08-08T05:49:54+00:00 DEBUG > Inserted - post ID is 21841.
+2020-08-08T05:49:54+00:00 DEBUG > > Importing image "W033001-2.jpg"
+2020-08-08T05:49:58+00:00 DEBUG > > Error importing image "W033001-2.jpg"
+2020-08-08T05:49:58+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:49:58+00:00 DEBUG > > Images set
+2020-08-08T05:49:58+00:00 DEBUG > Finished importing post ID 21841.
+2020-08-08T05:49:58+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:49:58+00:00 DEBUG > Inserting 5&quot; Bench Vise Fix With Anvil Workpro Brand
+2020-08-08T05:49:58+00:00 DEBUG > Inserted - post ID is 21842.
+2020-08-08T05:49:58+00:00 DEBUG > > Importing image "cc7f04d77eb11440c83335feb81febfa-2.jpg"
+2020-08-08T05:50:02+00:00 DEBUG > > Error importing image "cc7f04d77eb11440c83335feb81febfa-2.jpg"
+2020-08-08T05:50:02+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:02+00:00 DEBUG > > Images set
+2020-08-08T05:50:02+00:00 DEBUG > Finished importing post ID 21842.
+2020-08-08T05:50:02+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:50:02+00:00 DEBUG > Inserting 6&quot; Bench Vise Fix With Anvil Workpro Brand
+2020-08-08T05:50:02+00:00 DEBUG > Inserted - post ID is 21843.
+2020-08-08T05:50:02+00:00 DEBUG > > Importing image "batch-upload_8bcce9d1-6c38-4bd4-914c-ba985443aa32-2.jpg"
+2020-08-08T05:50:05+00:00 DEBUG > > Error importing image "batch-upload_8bcce9d1-6c38-4bd4-914c-ba985443aa32-2.jpg"
+2020-08-08T05:50:05+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:05+00:00 DEBUG > > Images set
+2020-08-08T05:50:05+00:00 DEBUG > Finished importing post ID 21843.
+2020-08-08T05:50:05+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:50:05+00:00 DEBUG > Inserting 8&quot; Bench Vise Fix With Anvil Workpro Brand
+2020-08-08T05:50:05+00:00 DEBUG > Inserted - post ID is 21844.
+2020-08-08T05:50:05+00:00 DEBUG > > Importing image "48b236ee4209f6c4ec7651f1fe22d479-2.jpg"
+2020-08-08T05:50:09+00:00 DEBUG > > Error importing image "48b236ee4209f6c4ec7651f1fe22d479-2.jpg"
+2020-08-08T05:50:09+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:09+00:00 DEBUG > > Images set
+2020-08-08T05:50:09+00:00 DEBUG > Finished importing post ID 21844.
+2020-08-08T05:50:09+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:50:09+00:00 DEBUG > Inserting 10&quot;Pipe Wrench Workpro Brand
+2020-08-08T05:50:09+00:00 DEBUG > Inserted - post ID is 21845.
+2020-08-08T05:50:09+00:00 DEBUG > > Importing image "693a30b70773877e8daf84997a34fd21-2.jpg"
+2020-08-08T05:50:13+00:00 DEBUG > > Error importing image "693a30b70773877e8daf84997a34fd21-2.jpg"
+2020-08-08T05:50:13+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:13+00:00 DEBUG > > Images set
+2020-08-08T05:50:13+00:00 DEBUG > Finished importing post ID 21845.
+2020-08-08T05:50:13+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:50:13+00:00 DEBUG > Inserting 14&quot; Pipe Wrench Workpro Brand
+2020-08-08T05:50:13+00:00 DEBUG > Inserted - post ID is 21846.
+2020-08-08T05:50:13+00:00 DEBUG > > Importing image "mo-let-can-rang-14-inch-350mm-workpro-2.jpg"
+2020-08-08T05:50:17+00:00 DEBUG > > Error importing image "mo-let-can-rang-14-inch-350mm-workpro-2.jpg"
+2020-08-08T05:50:17+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:17+00:00 DEBUG > > Images set
+2020-08-08T05:50:17+00:00 DEBUG > Finished importing post ID 21846.
+2020-08-08T05:50:17+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:50:17+00:00 DEBUG > Inserting 18&quot; Pipe Wrench Workpro Brand
+2020-08-08T05:50:17+00:00 DEBUG > Inserted - post ID is 21847.
+2020-08-08T05:50:17+00:00 DEBUG > > Importing image "a625bd4a78c6d528cd5267b1f4a6f5e1-2.jpg"
+2020-08-08T05:50:20+00:00 DEBUG > > Error importing image "a625bd4a78c6d528cd5267b1f4a6f5e1-2.jpg"
+2020-08-08T05:50:20+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:20+00:00 DEBUG > > Images set
+2020-08-08T05:50:20+00:00 DEBUG > Finished importing post ID 21847.
+2020-08-08T05:50:20+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:50:20+00:00 DEBUG > Inserting 24&quot;(600MM) Pipe Wrench Workpro Brand
+2020-08-08T05:50:21+00:00 DEBUG > Inserted - post ID is 21848.
+2020-08-08T05:50:21+00:00 DEBUG > > Importing image "llave-de-tubo-24600mm-w102004-workpro-2.jpg"
+2020-08-08T05:50:24+00:00 DEBUG > > Error importing image "llave-de-tubo-24600mm-w102004-workpro-2.jpg"
+2020-08-08T05:50:24+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:24+00:00 DEBUG > > Images set
+2020-08-08T05:50:24+00:00 DEBUG > Finished importing post ID 21848.
+2020-08-08T05:50:24+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:50:24+00:00 DEBUG > Inserting 1-1/2&quot;(38MM) 90Â° Straight Jaw Pipe Wrench Workpro Brand
+2020-08-08T05:50:24+00:00 DEBUG > Inserted - post ID is 21849.
+2020-08-08T05:50:24+00:00 DEBUG > > Importing image "llave-para-cano-2-pulg-50-mm-90-mordaza-recta-workpro-D_NQ_NP_671037-MLA40545247212_012020-F-1-2.jpg"
+2020-08-08T05:50:28+00:00 DEBUG > > Error importing image "llave-para-cano-2-pulg-50-mm-90-mordaza-recta-workpro-D_NQ_NP_671037-MLA40545247212_012020-F-1-2.jpg"
+2020-08-08T05:50:28+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:28+00:00 DEBUG > > Images set
+2020-08-08T05:50:28+00:00 DEBUG > Finished importing post ID 21849.
+2020-08-08T05:50:28+00:00 DEBUG Finished processing products.
+2020-08-08T05:50:29+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:50:29+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:50:29+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:50:29+00:00 DEBUG ---
+2020-08-08T05:50:29+00:00 DEBUG Processing products.
+2020-08-08T05:50:29+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:50:29+00:00 DEBUG > Inserting 2&quot;(50MM) 90Â° Straight Jaw Pipe Wrench Workpro Brand
+2020-08-08T05:50:29+00:00 DEBUG > Inserted - post ID is 21850.
+2020-08-08T05:50:29+00:00 DEBUG > > Importing image "llave-para-cano-2-pulg-50-mm-90-mordaza-recta-workpro-D_NQ_NP_671037-MLA40545247212_012020-F-3.jpg"
+2020-08-08T05:50:33+00:00 DEBUG > > Error importing image "llave-para-cano-2-pulg-50-mm-90-mordaza-recta-workpro-D_NQ_NP_671037-MLA40545247212_012020-F-3.jpg"
+2020-08-08T05:50:33+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:33+00:00 DEBUG > > Images set
+2020-08-08T05:50:33+00:00 DEBUG > Finished importing post ID 21850.
+2020-08-08T05:50:33+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:50:33+00:00 DEBUG > Inserting Electrician Pouch Workpro Brand
+2020-08-08T05:50:33+00:00 DEBUG > Inserted - post ID is 21851.
+2020-08-08T05:50:33+00:00 DEBUG > > Importing image "c4ce1e278aeeeb412fafa855b60fb84d-1-2.jpg"
+2020-08-08T05:50:37+00:00 DEBUG > > Error importing image "c4ce1e278aeeeb412fafa855b60fb84d-1-2.jpg"
+2020-08-08T05:50:37+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:37+00:00 DEBUG > > Images set
+2020-08-08T05:50:37+00:00 DEBUG > Finished importing post ID 21851.
+2020-08-08T05:50:37+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:50:37+00:00 DEBUG > Inserting 16 Inch Heavy Duty Plastic Tool Box Workpro Brand
+2020-08-08T05:50:37+00:00 DEBUG > Inserted - post ID is 21852.
+2020-08-08T05:50:37+00:00 DEBUG > > Importing image "Workpro-Tool-box-16inch-2.jpg"
+2020-08-08T05:50:42+00:00 DEBUG > > Error importing image "Workpro-Tool-box-16inch-2.jpg"
+2020-08-08T05:50:42+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:42+00:00 DEBUG > > Images set
+2020-08-08T05:50:42+00:00 DEBUG > Finished importing post ID 21852.
+2020-08-08T05:50:42+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:50:42+00:00 DEBUG > Inserting 20 Inch Heavy Duty Plastic Tool Box Workpro Brand
+2020-08-08T05:50:42+00:00 DEBUG > Inserted - post ID is 21853.
+2020-08-08T05:50:42+00:00 DEBUG > > Importing image "Workpro-Tool-box-2.jpg"
+2020-08-08T05:50:45+00:00 DEBUG > > Error importing image "Workpro-Tool-box-2.jpg"
+2020-08-08T05:50:45+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:45+00:00 DEBUG > > Images set
+2020-08-08T05:50:45+00:00 DEBUG > Finished importing post ID 21853.
+2020-08-08T05:50:45+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:50:45+00:00 DEBUG > Inserting 139PC All Purpose Home Tool Set Workpro Brand
+2020-08-08T05:50:45+00:00 DEBUG > Inserted - post ID is 21854.
+2020-08-08T05:50:45+00:00 DEBUG > > Importing image "fb501e028d452437e5eb2894765ca1d8-2.jpg"
+2020-08-08T05:50:49+00:00 DEBUG > > Error importing image "fb501e028d452437e5eb2894765ca1d8-2.jpg"
+2020-08-08T05:50:49+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:49+00:00 DEBUG > > Images set
+2020-08-08T05:50:49+00:00 DEBUG > Finished importing post ID 21854.
+2020-08-08T05:50:49+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:50:49+00:00 DEBUG > Inserting 100PC Kit Chen Drawer Tool Kit Workpro Brand
+2020-08-08T05:50:49+00:00 DEBUG > Inserted - post ID is 21855.
+2020-08-08T05:50:49+00:00 DEBUG > > Importing image "nabor_instrumentov_dlya_doma_v_sumke_100_predmetov_workpro_w009021_1542202662_5-2.jpg"
+2020-08-08T05:50:53+00:00 DEBUG > > Error importing image "nabor_instrumentov_dlya_doma_v_sumke_100_predmetov_workpro_w009021_1542202662_5-2.jpg"
+2020-08-08T05:50:53+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:53+00:00 DEBUG > > Images set
+2020-08-08T05:50:53+00:00 DEBUG > Finished importing post ID 21855.
+2020-08-08T05:50:53+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:50:53+00:00 DEBUG > Inserting 136PC Tool Set With Roller Seat Workpro Brand
+2020-08-08T05:50:53+00:00 DEBUG > Inserted - post ID is 21856.
+2020-08-08T05:50:53+00:00 DEBUG > > Importing image "workpro-w009039a-136-piece-heavy-duty-2-drawer-creeper-asi-D_NQ_NP_932291-MLM29744452075_032019-O-2.jpg"
+2020-08-08T05:50:56+00:00 DEBUG > > Error importing image "workpro-w009039a-136-piece-heavy-duty-2-drawer-creeper-asi-D_NQ_NP_932291-MLM29744452075_032019-O-2.jpg"
+2020-08-08T05:50:56+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:50:56+00:00 DEBUG > > Images set
+2020-08-08T05:50:56+00:00 DEBUG > Finished importing post ID 21856.
+2020-08-08T05:50:56+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:50:56+00:00 DEBUG > Inserting 14OZ Grease Gun with Hose Workpro Brand
+2020-08-08T05:50:57+00:00 DEBUG > Inserted - post ID is 21857.
+2020-08-08T05:50:57+00:00 DEBUG > > Importing image "Sung-bom-dau-WORKPRO-W114001-2.jpg"
+2020-08-08T05:51:00+00:00 DEBUG > > Error importing image "Sung-bom-dau-WORKPRO-W114001-2.jpg"
+2020-08-08T05:51:00+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:00+00:00 DEBUG > > Images set
+2020-08-08T05:51:00+00:00 DEBUG > Finished importing post ID 21857.
+2020-08-08T05:51:00+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:51:00+00:00 DEBUG > Inserting 8PC Open Wrench Set Workpro Brand
+2020-08-08T05:51:00+00:00 DEBUG > Inserted - post ID is 21858.
+2020-08-08T05:51:00+00:00 DEBUG > > Importing image "667705_1-2.jpg"
+2020-08-08T05:51:04+00:00 DEBUG > > Error importing image "667705_1-2.jpg"
+2020-08-08T05:51:04+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:04+00:00 DEBUG > > Images set
+2020-08-08T05:51:04+00:00 DEBUG > Finished importing post ID 21858.
+2020-08-08T05:51:04+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:51:04+00:00 DEBUG > Inserting 16PC Combination Spanner Set 6-32 Workpro Brand
+2020-08-08T05:51:04+00:00 DEBUG > Inserted - post ID is 21859.
+2020-08-08T05:51:04+00:00 DEBUG > > Importing image "bo-khoa-vong-mieng-26-chi-tiet-workpro-w003316-sl1-2.jpg"
+2020-08-08T05:51:08+00:00 DEBUG > > Error importing image "bo-khoa-vong-mieng-26-chi-tiet-workpro-w003316-sl1-2.jpg"
+2020-08-08T05:51:08+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:08+00:00 DEBUG > > Images set
+2020-08-08T05:51:08+00:00 DEBUG > Finished importing post ID 21859.
+2020-08-08T05:51:08+00:00 DEBUG Finished processing products.
+2020-08-08T05:51:09+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:51:09+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:51:09+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:51:09+00:00 DEBUG ---
+2020-08-08T05:51:09+00:00 DEBUG Processing products.
+2020-08-08T05:51:09+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:51:09+00:00 DEBUG > Inserting 26PC Combination Spanner Set 6-32 Workpro Brand
+2020-08-08T05:51:09+00:00 DEBUG > Inserted - post ID is 21861.
+2020-08-08T05:51:09+00:00 DEBUG > > Importing image "dbhpbritghble-2.jpg"
+2020-08-08T05:51:13+00:00 DEBUG > > Error importing image "dbhpbritghble-2.jpg"
+2020-08-08T05:51:13+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:13+00:00 DEBUG > > Images set
+2020-08-08T05:51:13+00:00 DEBUG > Finished importing post ID 21861.
+2020-08-08T05:51:13+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:51:13+00:00 DEBUG > Inserting 12PC Double Open Wrench Set 6-32 Workpro Brand
+2020-08-08T05:51:13+00:00 DEBUG > Inserted - post ID is 21862.
+2020-08-08T05:51:13+00:00 DEBUG > Finished importing post ID 21862.
+2020-08-08T05:51:13+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:51:13+00:00 DEBUG > Inserting 5M(16FT) Plastic Tape Measure ( Self Lock ) Workpro Brand
+2020-08-08T05:51:13+00:00 DEBUG > Inserted - post ID is 21863.
+2020-08-08T05:51:13+00:00 DEBUG > Finished importing post ID 21863.
+2020-08-08T05:51:13+00:00 DEBUG > Row 4 - preparing for import.
+2020-08-08T05:51:13+00:00 DEBUG > Inserting 10&quot; Straingh Tin Snip Workpro Brand
+2020-08-08T05:51:13+00:00 DEBUG > Inserted - post ID is 21864.
+2020-08-08T05:51:13+00:00 DEBUG > > Importing image "71kh92VIWGL._AC_SX679_-2.jpg"
+2020-08-08T05:51:17+00:00 DEBUG > > Error importing image "71kh92VIWGL._AC_SX679_-2.jpg"
+2020-08-08T05:51:17+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:17+00:00 DEBUG > > Images set
+2020-08-08T05:51:17+00:00 DEBUG > Finished importing post ID 21864.
+2020-08-08T05:51:17+00:00 DEBUG > Row 5 - preparing for import.
+2020-08-08T05:51:17+00:00 DEBUG > Inserting 10&#039;&#039; Right Cut Aviation Tin Snip Workpro Brand
+2020-08-08T05:51:17+00:00 DEBUG > Inserted - post ID is 21865.
+2020-08-08T05:51:17+00:00 DEBUG > > Importing image "40ee592779b93bb20ceadf4ec9b3b84f-2.jpg"
+2020-08-08T05:51:21+00:00 DEBUG > > Error importing image "40ee592779b93bb20ceadf4ec9b3b84f-2.jpg"
+2020-08-08T05:51:21+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:21+00:00 DEBUG > > Images set
+2020-08-08T05:51:21+00:00 DEBUG > Finished importing post ID 21865.
+2020-08-08T05:51:21+00:00 DEBUG > Row 6 - preparing for import.
+2020-08-08T05:51:21+00:00 DEBUG > Inserting 600MM(24&quot;) Bolt Cutter Workpro Brand (Copy)
+2020-08-08T05:51:21+00:00 DEBUG > Inserted - post ID is 21866.
+2020-08-08T05:51:21+00:00 DEBUG > > Importing image "5277f1b0-6b5f-4e90-8b6a-38139e43b53d-3.jpg"
+2020-08-08T05:51:24+00:00 DEBUG > > Error importing image "5277f1b0-6b5f-4e90-8b6a-38139e43b53d-3.jpg"
+2020-08-08T05:51:24+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:24+00:00 DEBUG > > Images set
+2020-08-08T05:51:24+00:00 DEBUG > Finished importing post ID 21866.
+2020-08-08T05:51:24+00:00 DEBUG > Row 7 - preparing for import.
+2020-08-08T05:51:24+00:00 DEBUG > Inserting 5M (16FT)Plastic Tape Measure ( Self Lock ) Workpro Brand
+2020-08-08T05:51:25+00:00 DEBUG > Inserted - post ID is 21867.
+2020-08-08T05:51:25+00:00 DEBUG > > Importing image "s-l1600-2.jpg"
+2020-08-08T05:51:28+00:00 DEBUG > > Error importing image "s-l1600-2.jpg"
+2020-08-08T05:51:28+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:28+00:00 DEBUG > > Images set
+2020-08-08T05:51:28+00:00 DEBUG > Finished importing post ID 21867.
+2020-08-08T05:51:28+00:00 DEBUG > Row 8 - preparing for import.
+2020-08-08T05:51:28+00:00 DEBUG > Inserting Sliding T-Bar 1/2&quot; Workpro Brand
+2020-08-08T05:51:28+00:00 DEBUG > Inserted - post ID is 21868.
+2020-08-08T05:51:28+00:00 DEBUG > > Importing image "693365befc0f0a1fd3f9606e26c7df01-2.jpg"
+2020-08-08T05:51:32+00:00 DEBUG > > Error importing image "693365befc0f0a1fd3f9606e26c7df01-2.jpg"
+2020-08-08T05:51:32+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:32+00:00 DEBUG > > Images set
+2020-08-08T05:51:32+00:00 DEBUG > Finished importing post ID 21868.
+2020-08-08T05:51:32+00:00 DEBUG > Row 9 - preparing for import.
+2020-08-08T05:51:32+00:00 DEBUG > Inserting 170 Pcs Home Tool Set In Plastic Box Workpro Brand
+2020-08-08T05:51:32+00:00 DEBUG > Inserted - post ID is 21869.
+2020-08-08T05:51:32+00:00 DEBUG > > Importing image "tools-set-workpro-2.jpg"
+2020-08-08T05:51:35+00:00 DEBUG > > Error importing image "tools-set-workpro-2.jpg"
+2020-08-08T05:51:35+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:35+00:00 DEBUG > > Images set
+2020-08-08T05:51:35+00:00 DEBUG > Finished importing post ID 21869.
+2020-08-08T05:51:35+00:00 DEBUG > Row 10 - preparing for import.
+2020-08-08T05:51:35+00:00 DEBUG > Inserting 183 PC Tool Set With Tool Box Workpro Brand
+2020-08-08T05:51:36+00:00 DEBUG > Inserted - post ID is 21870.
+2020-08-08T05:51:36+00:00 DEBUG > > Importing image "252101341e9e314a3155c8a674596ee7-2.jpg"
+2020-08-08T05:51:39+00:00 DEBUG > > Error importing image "252101341e9e314a3155c8a674596ee7-2.jpg"
+2020-08-08T05:51:39+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:39+00:00 DEBUG > > Images set
+2020-08-08T05:51:39+00:00 DEBUG > Finished importing post ID 21870.
+2020-08-08T05:51:39+00:00 DEBUG Finished processing products.
+2020-08-08T05:51:40+00:00 DEBUG ---[ New Import ] PHP Memory: 1 GB, WP Memory: 1 GB
+2020-08-08T05:51:40+00:00 DEBUG Parsing products CSV.
+2020-08-08T05:51:40+00:00 DEBUG Finished parsing products CSV.
+2020-08-08T05:51:40+00:00 DEBUG ---
+2020-08-08T05:51:40+00:00 DEBUG Processing products.
+2020-08-08T05:51:40+00:00 DEBUG > Row 1 - preparing for import.
+2020-08-08T05:51:40+00:00 DEBUG > Inserting 408 PC Mechanics Tool Set With 3- Drawer Heavy Duty Metal Box Workpro Brand
+2020-08-08T05:51:40+00:00 DEBUG > Inserted - post ID is 21871.
+2020-08-08T05:51:40+00:00 DEBUG > > Importing image "81a6wL55d9L-1-2.jpg"
+2020-08-08T05:51:44+00:00 DEBUG > > Error importing image "81a6wL55d9L-1-2.jpg"
+2020-08-08T05:51:44+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:44+00:00 DEBUG > > Images set
+2020-08-08T05:51:44+00:00 DEBUG > Finished importing post ID 21871.
+2020-08-08T05:51:44+00:00 DEBUG > Row 2 - preparing for import.
+2020-08-08T05:51:44+00:00 DEBUG > Inserting 582 PC Electric Tool Kit Workpro Brand
+2020-08-08T05:51:44+00:00 DEBUG > Inserted - post ID is 21872.
+2020-08-08T05:51:44+00:00 DEBUG > > Importing image "8221a4560cb8e6745c2acc56abe549d4-1-2.png"
+2020-08-08T05:51:48+00:00 DEBUG > > Error importing image "8221a4560cb8e6745c2acc56abe549d4-1-2.png"
+2020-08-08T05:51:48+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:48+00:00 DEBUG > > Images set
+2020-08-08T05:51:48+00:00 DEBUG > Finished importing post ID 21872.
+2020-08-08T05:51:48+00:00 DEBUG > Row 3 - preparing for import.
+2020-08-08T05:51:48+00:00 DEBUG > Inserting 7 PC Electrician&#039;s Tool Set With Pouch Workpro Brand
+2020-08-08T05:51:48+00:00 DEBUG > Inserted - post ID is 21873.
+2020-08-08T05:51:48+00:00 DEBUG > > Importing image "9808dc9ec06c75f5e4a2fdb4b9070cb2-2.jpg"
+2020-08-08T05:51:51+00:00 DEBUG > > Error importing image "9808dc9ec06c75f5e4a2fdb4b9070cb2-2.jpg"
+2020-08-08T05:51:51+00:00 DEBUG > > Local image did not exist!
+2020-08-08T05:51:51+00:00 DEBUG > > Images set
+2020-08-08T05:51:51+00:00 DEBUG > Finished importing post ID 21873.
+2020-08-08T05:51:51+00:00 DEBUG Finished processing products.

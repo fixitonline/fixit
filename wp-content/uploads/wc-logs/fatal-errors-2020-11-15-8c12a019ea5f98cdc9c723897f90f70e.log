@@ -1,0 +1,108 @@
+2020-11-15T06:33:02+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:33:11+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:33:12+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:33:21+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:34:08+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:35:22+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:35:34+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:35:49+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:36:08+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:36:21+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:37:48+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+
+2020-11-15T06:37:49+00:00 CRITICAL Uncaught Error: Call to undefined function urna_tbay_woocommerce_get_display_mode() in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php:45
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1117): wc_get_template('loop/loop-start...')
+#2 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(649): woocommerce_product_loop_start()
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-products.php(100): WC_Shortcode_Products->product_loop()
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(317): WC_Shortcode_Products->get_content()
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/class-wc-template-loader.php(225): WC_Template_Loader::unsupported_th in /vh/g/fixitcombd184747/www/wp-content/themes/urna/woocommerce/loop/loop-start.php on line 45
+

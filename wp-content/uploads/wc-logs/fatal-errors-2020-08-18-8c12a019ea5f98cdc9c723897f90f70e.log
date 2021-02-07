@@ -1,0 +1,10 @@
+2020-08-18T17:14:00+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on boolean in /vh/g/fixitcombd184747/www/wp-content/plugins/jetpack/modules/woocommerce-analytics/classes/class-jetpack-woocommerce-analytics-universal.php:287
+Stack trace:
+#0 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(288): Jetpack_WooCommerce_Analytics_Universal->order_process(19498)
+#1 /vh/g/fixitcombd184747/www/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /vh/g/fixitcombd184747/www/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/templates/checkout/thankyou.php(80): do_action('woocommerce_tha...', 19498)
+#4 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/wc-core-functions.php(344): include('/vh/g/fixitcomb...')
+#5 /vh/g/fixitcombd184747/www/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(256): wc_get_template('checkout/thanky...', Array)
+#6 /vh/g/fixitcombd184747/www/wp-content/plugins/woocomm in /vh/g/fixitcombd184747/www/wp-content/plugins/jetpack/modules/woocommerce-analytics/classes/class-jetpack-woocommerce-analytics-universal.php on line 287
+

@@ -1,0 +1,101 @@
+# BEGIN LSCACHE
+# END LSCACHE
+# BEGIN NON_LSCACHE
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+### marker BROWSER CACHE start ###
+<IfModule mod_expires.c>
+ExpiresActive on
+ExpiresByType application/pdf A2592000
+ExpiresByType image/x-icon A2592000
+ExpiresByType image/vnd.microsoft.icon A2592000
+ExpiresByType image/svg+xml A2592000
+
+ExpiresByType image/jpg A2592000
+ExpiresByType image/jpeg A2592000
+ExpiresByType image/png A2592000
+ExpiresByType image/gif A2592000
+ExpiresByType image/webp A2592000
+
+ExpiresByType video/ogg A2592000
+ExpiresByType audio/ogg A2592000
+ExpiresByType video/mp4 A2592000
+ExpiresByType video/webm A2592000
+
+ExpiresByType text/css A2592000
+ExpiresByType text/javascript A2592000
+ExpiresByType application/javascript A2592000
+ExpiresByType application/x-javascript A2592000
+
+ExpiresByType application/x-font-ttf A2592000
+ExpiresByType application/x-font-woff A2592000
+ExpiresByType application/font-woff A2592000
+ExpiresByType application/font-woff2 A2592000
+ExpiresByType application/vnd.ms-fontobject A2592000
+ExpiresByType font/ttf A2592000
+ExpiresByType font/woff A2592000
+ExpiresByType font/woff2 A2592000
+
+</IfModule>
+### marker BROWSER CACHE end ###
+
+### marker MINIFY start ###
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} ^(.*)/min/(\w+)\.(css|js)$
+RewriteCond %1/wp-content/cache/$2/$1.$2 -f
+RewriteRule min/(\w+)\.(css|js) wp-content/cache/$2/$1.$2 [L]
+</IfModule>
+### marker MINIFY end ###
+
+## LITESPEED WP CACHE PLUGIN - Do not edit the contents of this block! ##
+# END NON_LSCACHE
+# BEGIN WordPress
+# The directives (lines) between `BEGIN WordPress` and `END WordPress` are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN WP-Optimize Browser Cache
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresByType text/css "access 28 days"
+	ExpiresByType text/html "access 28 days"
+	ExpiresByType image/gif "access 28 days"
+	ExpiresByType image/png "access 28 days"
+	ExpiresByType image/jpg "access 28 days"
+	ExpiresByType image/jpeg "access 28 days"
+	ExpiresByType image/webp "access 28 days"
+	ExpiresByType image/x-icon "access 28 days"
+	ExpiresByType application/pdf "access 28 days"
+	ExpiresByType application/javascript "access 28 days"
+	ExpiresByType text/x-javascript "access 28 days"
+	ExpiresByType application/x-shockwave-flash "access 28 days"
+	ExpiresDefault "access 28 days"
+</IfModule>
+
+<IfModule mod_headers.c>
+	<filesMatch "\.(ico|jpe?g|png|gif|webp|swf)$">
+		Header set Cache-Control "public"
+	</filesMatch>
+	<filesMatch "\.(css)$">
+		Header set Cache-Control "public"
+	</filesMatch>
+	<filesMatch "\.(js)$">
+		Header set Cache-Control "private"
+	</filesMatch>
+	<filesMatch "\.(x?html?|php)$">
+		Header set Cache-Control "private, must-revalidate"
+	</filesMatch>
+</IfModule>
+
+#Disable ETag
+FileETag None
+# END WP-Optimize Browser Cache
